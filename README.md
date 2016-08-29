@@ -8,28 +8,28 @@ These notebooks are used in Udacity\Google course :
 * 5_word2vec.ipynb
 * 6_lstm.ipynb
 
-###Summary
+###Architecture & scores summary :
 
-*1_notmnist.ipynb*
+*1_notmnist :*
 
 Logistic regression (this one via scikit-learn) => 87% score on test dataset
 <br><br>
 
-*2_fullyconnected.ipynb*
+*2_fullyconnected :*
 
 Logistic regression => 83%
 Logistic regression with SGD => 86%
 Fully connected with 1 hidden layer and ReLU => 88%
 <br><br>
 
-*3_regularization.ipynb*
+*3_regularization :*
 
 Adding L2 regularization to Logistic Regression => 88%
 Adding L2 regularization to NN => 92%
 Replacing L2 regul by dropout on NN => 87%
 <br><br>
 
-*4_convolutions.ipynb*
+*4_convolutions :*
 
 Conv > ReLU > Conv > ReLU > FullyConnected > ReLU > FullyConnected => 90%
 Conv > MaxPool > ReLU > Conv > MaxPool > ReLU > FullyConnected > ReLU > FullyConnected => 89%
