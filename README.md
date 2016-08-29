@@ -8,7 +8,7 @@ These notebooks are used in Udacity\Google course :
 * 5_word2vec.ipynb
 * 6_lstm.ipynb
 
-<h2>Summary<\h2>
+<h2>Summary<h2>
 
 *1_notmnist.ipynb*
 
